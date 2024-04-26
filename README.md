@@ -1,10 +1,13 @@
 
 # BootCamp Python Data Analytics 
 
-Um aprendizado sobre python com esse BootCamp é possivel aprender e começar a desenvolver com python
+Um aprendizado sobre python com esse BootCamp é possivel aprender e começar a desenvolver com python com base nos desafio prospostos pela DIO
 📔📔📔📔📔
 
 ## ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93SMd_s1dWBVjmxJ3Ho6z_mdC8pHVqpgH50MKwKSj6jLKslkWRW0arUZG&s) 
+
+## 🏆 Desafios
+[![Desafio_1_Relatio_Vendas]()]
 
 
 ## 🛠️ Ferramentas
