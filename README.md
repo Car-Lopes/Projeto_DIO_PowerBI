@@ -9,7 +9,7 @@ Um aprendizado sobre python com esse BootCamp é possivel aprender e começar a 
 ## 🏆 Desafios
 [Desafio_1_Relatorio_Vendas](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_1)
 
-[Desafio_2_Limpeza_de_Dados]()
+[Desafio_2_Limpeza_de_Dados](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_2_Limpeza_de_Dados)
 
 
 ## 🛠️ Ferramentas
