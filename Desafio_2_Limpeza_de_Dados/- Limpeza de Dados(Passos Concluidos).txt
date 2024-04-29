@@ -1,0 +1,8 @@
+
+- Exclui Colunas Constraints
+- Criei nova coluna de sexo trocando as siglas pelo proprio nome do sexo
+- Alterei os tipos de dados das colunas 
+- Mesclei coluna nome do meio e sobrenome ficou uma coluna só 
+- Dividi a Coluna endereço em 3 colunas
+- Retirei os valores nullos
+- Completei colunas sem gerentes
