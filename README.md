@@ -13,6 +13,7 @@ Um aprendizado sobre python com esse BootCamp é possivel aprender e começar a 
 
 [Desafio_4_Replicando_Relatorios](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_4_Replicando_Relatorios)
 
+[Desafio_5_Modelo_Star_Schema]()
 
 ## 🛠️ Ferramentas
 
