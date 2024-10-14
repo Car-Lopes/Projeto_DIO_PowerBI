@@ -1,22 +1,19 @@
-# Projeto Star Schema - MYSQL
-Desenhar processo Star Schema no MySql 📔
+# Projeto Star Schema - POWER BI
+Desenhar processo Star Schema no POWER BI ⭐
 
 ## ⏳PROCESSO
 
-- Foi utilizado o MySQL para criar o modelo dimensional - Star Schema.
+- Foi utilizado o POWER BI para criar o modelo  - Star Schema.
+- Foi criada as tabelas dimenssões denominadas por um D na frente
+- Foi criado a tabela fato demoninada por um F na frete
+- Todas as tabelas partindo de uma origem oculta
+- Foi criado uma tabela dimensão D_Calendar (D_Calendario = CALENDARAUTO(12)) 
+    -  Usado a Função CALENDARAUTO
+- Foi criado grau de granularidade de mes e ano 
+- Coluna mes criado com a função YEAR(Ano = YEAR('D_Calendario'[Date]))
+- Coluna mes criado com a função FORMAT (Mes = FORMAT('D_Calendario'[Date],"mmmm", "en")) 
+   - formatado em ingles para ter relação com tabela fato 
 
-## 📚 BREVE RESUMO - VISAO GERAL
-O esquema em estrela é uma abordagem de modelagem madura amplamente adotada por data warehouses relacionais. Ele requer que os modeladores classifiquem suas tabelas de modelo como dimensão ou fato.
-
-Tabelas de DIMENSÕES - descrevem as entidades de negócios – os itens que você modela. As entidades podem incluir produtos, pessoas, locais e conceitos, incluindo o próprio tempo. A tabela mais consistente que você encontrará em um esquema em estrela é uma tabela de dimensão de data. Uma tabela de dimensões contém uma ou mais colunas de chave, que atuam como um identificador exclusivo, e colunas descritivas.
-
-Tabelas de FATOS - armazenam observações ou eventos e podem ser ordens de vendas, saldos de ações, taxas de câmbio, temperaturas, etc. Uma tabela de fatos contém colunas chave de dimensão relacionadas a tabelas de dimensões e colunas de medidas numéricas. As colunas de chave de dimensão determinam a dimensionalidade de uma tabela de fatos, enquanto os valores de chave de dimensão determinam a granularidade de uma tabela de fatos. Por exemplo, considere uma tabela de fatos projetada para armazenar os destinos de venda que têm duas colunas de chave de dimensão Data e ProductKey. É fácil entender que a tabela tem duas dimensões. No entanto, a granularidade não pode ser determinada sem considerar os valores de chave de dimensão. Neste exemplo, considere que os valores armazenados na coluna Data são o primeiro dia de cada mês. Nesse caso, a granularidade está no nível do mês-produto.
-
-Em geral, as tabelas de dimensões contêm um número relativamente pequeno de linhas. As tabelas de fatos, por outro lado, podem conter um número muito grande de linhas e continuar crescendo ao longo do tempo.
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
 
 
 ## 🛠️ FERRAMENTAS
@@ -25,6 +22,7 @@ Em geral, as tabelas de dimensões contêm um número relativamente pequeno de l
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=write)](https://docs.github.com/)
 [![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
 [![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=MYSQL&logoColor=blue)](https://www.mysql.com/downloads/)
+[![POWER BI](https://img.shields.io/badge/POWER%20BI%20-%20%23000000?style=for-the-badge&logo=POWER%20BI&logoColor=Balck&labelColor=Black)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
 
 ## 📚 REFERÊNCIAS
@@ -35,7 +33,11 @@ Em geral, as tabelas de dimensões contêm um número relativamente pequeno de l
 - [VSCODE. Documentation](https://code.visualstudio.com/docs)
 - [VSCODE. Atalhos_Keyboard](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Visão Geral. Documentation](https://learn.microsoft.com/pt-br/power-bi/guidance/star-schema)
+- [Documentation. dax](https://learn.microsoft.com/en-us/dax/)
+- [Function Calendar. Calendarauto_dax](https://learn.microsoft.com/en-us/dax/calendarauto-function-dax)
+- [Function Year. dax](https://learn.microsoft.com/en-us/dax/year-function-dax)
+- [Function Format. dax](https://learn.microsoft.com/en-us/dax/format-function-dax)
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
-- [Criação do Modelo Star Schema - MYSQL](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_5_Modelo_Star_Schema/Certificado)
+- [Criação do Modelo Star Schema - POWER BI]
