@@ -38,4 +38,4 @@ Em geral, as tabelas de dimensões contêm um número relativamente pequeno de l
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
-- [Criação do Modelo Star Schema - MYSQL]()
+- [Criação do Modelo Star Schema - MYSQL](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_5_Modelo_Star_Schema/Certificado)
