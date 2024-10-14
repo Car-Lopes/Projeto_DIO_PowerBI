@@ -40,4 +40,4 @@ Desenhar processo Star Schema no POWER BI ⭐
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
-- [Criação do Modelo Star Schema - POWER BI]
+- [Criação do Modelo Star Schema - POWER BI]()

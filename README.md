@@ -15,6 +15,8 @@ Um aprendizado sobre python com esse BootCamp é possivel aprender e começar a 
 
 [Desafio_5_Modelo_Star_Schema](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_5_Modelo_Star_Schema)
 
+[Desafio_6_Modelando_Star_Schema_Power_BI](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Desafio_6_Star_Schema_BI)
+
 ## 🛠️ Ferramentas
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
