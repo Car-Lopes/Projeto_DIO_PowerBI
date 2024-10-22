@@ -1,4 +1,4 @@
-# Projeto Star Schema - POWER BI
+# Projeto Relatorio Criativo - POWER BI
 Desenvolver Viasuais criativos na experiencia do usuario POWER BI ⭐
 
 ## ⏳PROCESSO
