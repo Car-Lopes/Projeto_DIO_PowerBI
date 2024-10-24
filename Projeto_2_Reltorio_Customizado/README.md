@@ -9,6 +9,15 @@ Desenvolver Viasuais criativos na experiencia do usuario POWER BI ⭐
 - Foi escondidos viasuais enquanto outros são visualizados.
 - Foi retirado inforamções desnecessarias.
 - Foi includo imagens.
+- Foi criado dashboards de histograma.
+- Foi criado dashboards de dispersão.
+- Foi colocado fudos de destaques. 
+- Foi criados grupos para agrupamento.
+- Foi criado medidas.
+- Foi agrupados visuais. 
+- Foi orgazinados os visuais em seus agrupamentos.
+- Foi usado algumas funções DAX(AVERAGEX,CALCULATE,FILTER,TOPN,SUMX).
+- Foi criado a pagina HOME.
 
 
 ## 🛠️ FERRAMENTAS
@@ -34,4 +43,4 @@ Desenvolver Viasuais criativos na experiencia do usuario POWER BI ⭐
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
-- [Criação de Relatorio Criativo - POWER BI](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Projeto_1_Relatorio_Criativo/Certificado)
+- [Criação de Relatorio Customizado - POWER BI]()
