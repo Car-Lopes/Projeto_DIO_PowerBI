@@ -19,7 +19,7 @@ Um aprendizado sobre python com esse BootCamp é possivel aprender e começar a 
 
 [Projeto_1_Relatorio_Criativo](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Projeto_1_Relatorio_Criativo)
 
-[Projeto_2_Relatorio_Customizado]()
+[Projeto_2_Relatorio_Customizado](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Projeto_2_Reltorio_Customizado)
 
 ## 🛠️ Ferramentas
 
