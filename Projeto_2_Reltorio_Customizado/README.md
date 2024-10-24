@@ -43,4 +43,4 @@ Desenvolver Viasuais criativos na experiencia do usuario POWER BI ⭐
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
-- [Criação de Relatorio Customizado - POWER BI]()
+- [Criação de Relatorio Customizado - POWER BI](https://github.com/Car-Lopes/Projeto_DIO_PowerBI/tree/master/Projeto_2_Reltorio_Customizado/Certificado)
